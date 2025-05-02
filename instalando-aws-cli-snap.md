@@ -26,7 +26,7 @@ Preencha os dados quando solicitado:
 ---
 
 
-## ✅ Passo 3: Teste se está funcionando
+## ✅ Passo 3: Verificação usuário autenticado
 
 Comando para verificar usuário autenticado:
 
